@@ -139,4 +139,4 @@ Lizandro Oliveira, Anderson Cruz, Adenauer Yamin & Renata Reiser, “IPMU2024 Li
 
 ## 2012
 
-* [A. Maron, R. Reiser, M. L. Pilla, and A. C. Yamin, “Quantum processes: A new interpretation for quantum transformations in the VPE-qGM environment”. In: 2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI), Medellin, Colombia, October 1-5, 2012, 2012, pp. 1–10. DOI: 10.1109/CLEI.2012.6426919](https://ieeexplore.ieee.org/document/6426919)
+* A. Maron, R. Reiser, M. L. Pilla, and A. C. Yamin, “Quantum processes: A new interpretation for quantum transformations in the VPE-qGM environment”. In: 2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI), Medellin, Colombia, October 1-5, 2012, 2012, pp. 1–10. DOI: [10.1109/CLEI.2012.6426919](https://ieeexplore.ieee.org/document/6426919)
